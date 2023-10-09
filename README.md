@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go, React js, Typescript, Next js,
+- 🌱 &nbsp;My current expertise  ReactJs, Typescript, NextJs, React Native, NodeJs, GIT, Mantine, Prisma, Postgresql
 
 - Second Github account https://github.com/Luxxn12
 
